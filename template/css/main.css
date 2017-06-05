@@ -1,6 +1,7 @@
 body a {
     color: #00b7cf;
 }
+
 #header-outer:not([data-lhe="animated_underline"]) header#top nav>ul>li>a:hover,
 #header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu>li.sfHover>a,
 header#top nav>ul>li.button_bordered>a:hover,
@@ -1018,4 +1019,20 @@ body #slide-out-widget-area-bg {
 
 #nectar_fullscreen_rows {
     background-color: ;
+}
+
+#image-bg {
+    background-image: url('../static/img/carousel.jpg');
+}
+
+#image-bg1 {
+    background-image: url('../static/img/carousel.jpg');
+}
+
+#image-bg2 {
+    background-image: url('../static/img/carousel.jpg');
+}
+
+#image-bg3 {
+    background-image: url('../static/img/carousel.jpg');
 }

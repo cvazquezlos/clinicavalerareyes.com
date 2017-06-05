@@ -10,6 +10,8 @@ body #header-outer[data-format="centered-menu-under-logo"] .span_3 {
 
 #header-outer #logo img {
     height: 60px;
+    top: 10px;
+    position: relative;
 }
 
 .ascend #header-outer[data-full-width="true"] header#top nav>ul.buttons {
@@ -287,9 +289,8 @@ body {
 #page-header-bg[data-post-hs="default_minimal"] .author-section {
     display: none!important;
 }
-</style>
-<style type="text/css">
-body,
+
+</style><style type="text/css">body,
 .toggle h3 a,
 body .ui-widget,
 table,

@@ -1006,7 +1006,7 @@ body[data-header-color="dark"] #header-secondary-outer li.sfHover >a, body[data-
 body #header-outer[data-using-secondary="1"][data-permanent-transparent="1"]{top:33px}
 .admin-bar #header-outer[data-using-secondary="1"], .logged-in.buddypress #header-outer[data-using-secondary="1"]{top:64px}
 html .admin-bar #header-outer[data-using-secondary="1"][data-permanent-transparent="1"], .logged-in.buddypress #header-outer[data-using-secondary="1"][data-permanent-transparent="1"]{top:64px}
-header#top #logo{width:auto; max-width:none; display:block; line-height:22px; font-size:22px; letter-spacing:-1.5px; color:#444; font-family:'Open Sans'; font-weight:600}
+header#top #logo{width:auto; max-width:none; display:block; line-height:22px; font-size:22px; letter-spacing:-1.5px; color:#444; font-family:'Open Sans'}
 header#top #logo.no-image{margin-top:4px}
 header#top #logo .retina-logo{display:none!important}
 header#top #logo .starting-logo{position:absolute; top:0; opacity:0; left:0}  header#top #logo:hover{color:#27CFC3}
