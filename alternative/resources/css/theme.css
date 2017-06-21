@@ -959,7 +959,7 @@ frame {
 }
 
 .about-bg {
-    background: url('../images/about-bg.jpg') center center no-repeat;
+    background: url('../assets/images/about-bg.jpg') center center no-repeat;
     background-size: cover;
     position: absolute;
     right: 0;
@@ -1399,7 +1399,7 @@ frame {
 
 .booking {
     padding: 70px 0;
-    background: url('../images/book_bg.jpg') center center no-repeat;
+    background: url('../assets/images/book_bg.jpg') center center no-repeat;
     background-size: cover;
 }
 
