@@ -159,7 +159,8 @@ RESPONSIVE FIXES
         margin: 0 auto;
     }
     .header-logo img {
-        width: 23px;
+        width: auto;
+        height: 100%;
         margin-right: 0px;
         top: -1px;
     }
