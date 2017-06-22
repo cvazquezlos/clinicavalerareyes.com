@@ -625,15 +625,13 @@ function initialize() {
     /* ==== SET MARKER ====*/
     var marker = new google.maps.Marker({
         position: myLatlng,
-        map: map,
-        icon: image
+        map: map
     });
 
     if ($('*').is('#map')) {
         var marker = new google.maps.Marker({
             position: myLatlng,
-            map: map1,
-            icon: image
+            map: map1
         });
     }
 
