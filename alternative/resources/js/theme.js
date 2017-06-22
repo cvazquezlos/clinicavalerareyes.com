@@ -602,12 +602,12 @@ jQuery(document).ready(function ($) {
 function initialize() {
 
     /* ==== CENTER AND MARKER COORDINATES ====*/
-    var myLatlng = new google.maps.LatLng(27.92936524, -82.5084883);
+    var myLatlng = new google.maps.LatLng(40.431873, -3.722714);
 
     /* ==== MAP OPTIONS ====*/
     var mapOptions = {
         center: myLatlng,
-        zoom: 17,
+        zoom: 16,
         scrollwheel: false,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     };
@@ -620,7 +620,7 @@ function initialize() {
     }
 
     /* ==== MARKER IMAGE ====*/
-    var image = 'images/marker.png';
+    var image = '../assets/images/marker.png';
 
     /* ==== SET MARKER ====*/
     var marker = new google.maps.Marker({
