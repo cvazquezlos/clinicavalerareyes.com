@@ -3996,7 +3996,7 @@ frame {
     float: left;
     width: 409px;
     height: 338px;
-    background: url('../images/404_blue.png') no-repeat center center;
+    background: url('../assets/images/404_blue.png') no-repeat center center;
     background-size: contain;
 }
 
